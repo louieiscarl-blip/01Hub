@@ -2,7 +2,7 @@
 -- Safe-load Obsidian, optimized connections, theme saving, ESP, Movement, Health, Fun, Animations, Premium, Client sided features.
 
 -- ====== CONFIG / RAW URL ======
-local OBSIDIAN_RAW = "https://raw.githubusercontent.com/louieiscarl-blip/01Hub/refs/heads/main/source.lua"
+local OBSIDIAN_RAW = "https://raw.githubusercontent.com/louieiscarl-blip/01Hub/refs/heads/main/Source.lua"
 
 -- ====== SERVICES & CACHE ======
 local Players        = game:GetService("Players")
