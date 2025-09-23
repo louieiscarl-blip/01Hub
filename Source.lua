@@ -1,5 +1,5 @@
 -- // 01Hub v1.8 Optimized \\ --
--- Author: CarlXD (Sakupen01 Project)
+-- Author: Carl01 (Sakupen0Circles/01Hub Project)
 -- Optimized build for smoother execution and reduced lag.
 
 -- // Services // --
@@ -49,7 +49,7 @@ end
 
 local menu = lib:Create({
     title = "01Hub v1.8",
-    subtitle = "Sakupen01 Project",
+    subtitle = "01Hub loading!",
     theme = "Dark"
 })
 
